@@ -1,0 +1,16 @@
+//
+//  localShare.pch
+//  NavBar
+//
+//  Created by LXL on 2017/8/19.
+//  Copyright © 2017年 com.cnit. All rights reserved.
+//
+
+#ifndef localShare_pch
+#define localShare_pch
+
+#import <Foundation/Foundation.h>
+#import <UIKit/UIKit.h>
+#import "KDStyleSyntaxSugar.h"
+#import "UIViewController+Extension.h"
+#endif /* localShare_pch */
